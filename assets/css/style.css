@@ -4,4 +4,16 @@ img {
     max-width: 100%;
 }
 
+.sony_logo {
+    background-color: black;
+}
+
+.sony_logo img {
+    width: 80px;
+}
+
+.sony_logo img:hover,
+.navbar img:hover {
+    cursor: pointer;
+}
 /* #endregion General rules */
