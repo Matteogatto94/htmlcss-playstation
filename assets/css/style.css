@@ -62,4 +62,13 @@ body {
 /* #endregion header */
 
 
-/* #region jumbotron */
+/* #region playstation_five */
+
+.playstation_five p{
+    color: #797979;
+}
+
+.playstation_five span{
+    color: blue;
+}
+
