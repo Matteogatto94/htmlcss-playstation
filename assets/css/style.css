@@ -110,3 +110,30 @@ body {
 }
 
 /* #endregion playstation_five */
+
+/* #region banner */
+
+.it_takes_two {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
+    background-position: center;
+}
+
+.it_takes_two h2,
+.it_takes_two p {
+    color: white;
+}
+
+.it_takes_two img {
+    width: 500px;
+}
+
+.it_takes_two h2 {
+    font-size: 3rem;
+}
+
+.it_takes_two_name {
+    max-width: 25%;
+}
