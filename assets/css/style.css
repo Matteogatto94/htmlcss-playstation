@@ -194,3 +194,16 @@ body {
 .logo_now {
     width: 300px;
 }
+
+/* #endregion playstation_now */
+
+/* #region social */
+
+.social {
+    margin-top: 3rem;
+}
+
+.title_social img {
+    width: 100px;
+    margin-left: 0.5rem;
+}
