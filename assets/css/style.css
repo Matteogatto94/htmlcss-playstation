@@ -65,11 +65,34 @@ body {
 
 /* #endregion header */
 
+/* #region jumbotron */
+
+.fs_10 {
+    font-size: 10px;
+}
+
+.fs_h3 {
+    font-size: 25px;
+}
+
+.jumbotron .logo_return {
+    width: 50%;
+}
+
+/* #endregion jumbotron */
+
 /* #region games */
 
-.games img:hover {
+.games {
+    margin-top: 2rem;
+}
+
+.games .col img:hover {
+    padding: 2px;
+    border: 1px solid #0070D1;
     cursor: pointer;
 }
+/* #endregion games */
 
 /* #region playstation_five */
 
