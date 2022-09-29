@@ -59,8 +59,17 @@ body {
     padding: 1rem;
 }
 
+.search {
+    width: 30px;
+}
+
 /* #endregion header */
 
+/* #region games */
+
+.games img:hover {
+    cursor: pointer;
+}
 
 /* #region playstation_five */
 
@@ -72,3 +81,4 @@ body {
     color: blue;
 }
 
+/* #endregion playstation_five */
