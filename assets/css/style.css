@@ -145,3 +145,14 @@ body {
 }
 
 /* #endregion new_games */
+
+/* #region playstation_4 */
+
+.playstation_four {
+    margin-top: 3rem;
+}
+
+.playstation_four span,
+.playstation_four p {
+    color: #797979;
+}
