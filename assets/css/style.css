@@ -104,4 +104,9 @@ body {
     color: blue;
 }
 
+.accessories img {
+    padding-bottom: 1rem;
+    width: 120px;
+}
+
 /* #endregion playstation_five */
