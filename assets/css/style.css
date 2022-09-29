@@ -156,3 +156,18 @@ body {
 .playstation_four p {
     color: #797979;
 }
+
+/* #endregion playstation_4 */
+
+/* #region playstation_plus */
+
+.playstation_plus {
+    margin-top: 3rem;
+    background-color: #BEBCBB;
+}
+
+.logo_plus {
+    width: 300px;
+}
+
+/* #endregion playstation_plus */
