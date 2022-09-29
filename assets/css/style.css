@@ -111,7 +111,7 @@ body {
 
 /* #endregion playstation_five */
 
-/* #region banner */
+/* #region it_takes_two */
 
 .it_takes_two {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
@@ -136,4 +136,12 @@ body {
 
 .it_takes_two_name {
     max-width: 25%;
+}
+
+/* #endregion it_takes_two */
+
+/* #region new_games */
+
+.new_games {
+    background-color: #1F1F1F;
 }
