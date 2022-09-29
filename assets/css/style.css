@@ -171,3 +171,15 @@ body {
 }
 
 /* #endregion playstation_plus */
+
+/* #region sales */
+
+.sales {
+    margin-top: 3rem;
+}
+
+.sales p {
+    color: #949494;
+}
+
+/* #endregion sales */
