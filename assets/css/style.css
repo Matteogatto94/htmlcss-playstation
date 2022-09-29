@@ -183,3 +183,14 @@ body {
 }
 
 /* #endregion sales */
+
+/* #region playstation_now */
+
+.playstation_now {
+    margin-top: 3rem;
+    background-color: #161C3B;
+}
+
+.logo_now {
+    width: 300px;
+}
