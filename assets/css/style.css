@@ -210,3 +210,25 @@ body {
 
 /* #endregion social */
 
+/* #region footer */
+
+footer {
+    background-color: #00439C;
+    margin-top: 3rem;
+}
+
+.margin_right {
+    margin-right: 1rem;
+}
+
+li {
+    line-height: 2rem;
+}
+
+.sie_logo {
+    width: 110px;
+}
+
+.underline {
+    text-decoration: underline;
+}
